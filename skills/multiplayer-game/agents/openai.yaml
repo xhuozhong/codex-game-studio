@@ -1,0 +1,3 @@
+interface:
+  display_name: "Multiplayer Game"
+  short_description: "Build rooms, authoritative sync and reconnects"

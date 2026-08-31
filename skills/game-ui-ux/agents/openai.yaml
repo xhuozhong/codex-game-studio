@@ -1,0 +1,3 @@
+interface:
+  display_name: "Game UI/UX"
+  short_description: "Adapt game interfaces for accessible device input"

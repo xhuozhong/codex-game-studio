@@ -1,0 +1,3 @@
+interface:
+  display_name: "Develop Web Game"
+  short_description: "Playtest, inspect, fix and regress browser games"

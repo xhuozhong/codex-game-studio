@@ -1,0 +1,3 @@
+interface:
+  display_name: "Game Engine"
+  short_description: "Design game loops, input, physics and rendering"

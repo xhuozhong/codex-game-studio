@@ -1,0 +1,3 @@
+interface:
+  display_name: "Game Developer"
+  short_description: "Implement gameplay, state machines and persistence"

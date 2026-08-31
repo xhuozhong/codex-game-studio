@@ -1,0 +1,74 @@
+{
+  "edition": "2.0.0-source.1",
+  "source": "locally installed Codex Game Studio skills",
+  "original_zip_verified": false,
+  "files": [
+    {
+      "path": "skills/game-studio-director/SKILL.md",
+      "body_changed": false,
+      "source_sha256": "5c04af5291de2e883b889dc07081f0afb775822666df82239b83f5d32cd52ea4",
+      "repository_sha256": "5c04af5291de2e883b889dc07081f0afb775822666df82239b83f5d32cd52ea4"
+    },
+    {
+      "path": "skills/higgsfield-game-generation/SKILL.md",
+      "body_changed": false,
+      "source_sha256": "a7613fe4e8a1e9a4d30d72876eb476c6554b7a43f268036f4f2d43ebeb57e569",
+      "repository_sha256": "a7613fe4e8a1e9a4d30d72876eb476c6554b7a43f268036f4f2d43ebeb57e569"
+    },
+    {
+      "path": "skills/game-engine/SKILL.md",
+      "body_changed": false,
+      "source_sha256": "7c098a5abb8a632af7f11ef72bd0795a228d9245e13d68187edf206b790790ff",
+      "repository_sha256": "7c098a5abb8a632af7f11ef72bd0795a228d9245e13d68187edf206b790790ff"
+    },
+    {
+      "path": "skills/multiplayer-game/SKILL.md",
+      "body_changed": false,
+      "source_sha256": "107307201922e263ecd14a45241bb34d77354e5b3fe425fbaf22bb6ef4c0ffb3",
+      "repository_sha256": "107307201922e263ecd14a45241bb34d77354e5b3fe425fbaf22bb6ef4c0ffb3"
+    },
+    {
+      "path": "skills/game-developer/SKILL.md",
+      "body_changed": false,
+      "source_sha256": "a4d416454ace8730ea954b8c96dc4420f51e864cec227b3ea4b4f2d47208b1ca",
+      "repository_sha256": "a4d416454ace8730ea954b8c96dc4420f51e864cec227b3ea4b4f2d47208b1ca"
+    },
+    {
+      "path": "skills/game-ui-design/SKILL.md",
+      "body_changed": false,
+      "source_sha256": "a358233bde098fd80a6807a5785e2af517813c8ef4d794a4055823440bfb3351",
+      "repository_sha256": "a358233bde098fd80a6807a5785e2af517813c8ef4d794a4055823440bfb3351"
+    },
+    {
+      "path": "skills/game-design-theory/SKILL.md",
+      "body_changed": false,
+      "source_sha256": "e9e52f22c14ce87c12e76a71d7398a6ebdbbfe2c25860d86acc178c6ef552b41",
+      "repository_sha256": "e9e52f22c14ce87c12e76a71d7398a6ebdbbfe2c25860d86acc178c6ef552b41"
+    },
+    {
+      "path": "skills/game-feel/SKILL.md",
+      "body_changed": false,
+      "source_sha256": "ceeb3677723c891b81b1d27788baae36edbfd382ce9e42caf4889bf3f47fb1c8",
+      "repository_sha256": "ceeb3677723c891b81b1d27788baae36edbfd382ce9e42caf4889bf3f47fb1c8"
+    },
+    {
+      "path": "skills/game-ui-ux/SKILL.md",
+      "body_changed": false,
+      "source_sha256": "52829c1bf354de5147b190be70a09240b3f2ddf3008a6907cce3d540c1c52697",
+      "repository_sha256": "52829c1bf354de5147b190be70a09240b3f2ddf3008a6907cce3d540c1c52697"
+    },
+    {
+      "path": "skills/threejs-game-ui-designer/SKILL.md",
+      "body_changed": false,
+      "source_sha256": "47793ebe8c2a9d9b08a1c485e80074454a5e1f136f3313fe57f3073b722f90c8",
+      "repository_sha256": "47793ebe8c2a9d9b08a1c485e80074454a5e1f136f3313fe57f3073b722f90c8"
+    },
+    {
+      "path": "skills/develop-web-game/SKILL.md",
+      "body_changed": false,
+      "source_sha256": "dd1929cc60f0f9c2412f3146f258addc8735f437d661a8dac1516c36a88bff16",
+      "repository_sha256": "dd1929cc60f0f9c2412f3146f258addc8735f437d661a8dac1516c36a88bff16"
+    }
+  ],
+  "line_endings": "GitHub online editor normalizes text to LF; compare source_sha256 for original bytes and repository_sha256 for published bytes."
+}
